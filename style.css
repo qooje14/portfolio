@@ -136,33 +136,24 @@ h2 {
 
 /* icons*/
 
-#boxes {
-    margin-top: 20px;
-    margin-left: 25%;
-    text-align: center;
+.h-boxes {
+    display: flex;
+    margin: 1em 0;
+    justify-content: space-between;
 }
 
-#boxes .box {
-    margin-top: 40px;
-    width: 20%;
-    float: left;
-    padding: 30px;
-}
-
-#boxes .box img {
+.boxes {
+    padding: .5em;
     width: 80%;
-    overflow: hidden;
 }
 
-#section footer {
-    padding: 20px;
-    margin-top: 13.6%;
+.footer-content {
+    width: 100%;
+    position: absolute;
     text-align: center;
-}
-
-#section .footerIndex p {
-    color: #000000;
-    margin-top: 17%;
+    left: 0px;
+    margin: 0;
+    bottom: 0px;
 }
 
 
