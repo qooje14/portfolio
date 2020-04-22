@@ -147,18 +147,13 @@ h2 {
     width: 80%;
 }
 
-.footer {
-    margin: 0;
-    height: 257px;
-}
-
 .footer-content {
     width: 100%;
     text-align: center;
     height: 50px;
-    left: 0px;
+    bottom: 0;
+    position: fixed;
     margin: 0;
-    
 }
 
 
