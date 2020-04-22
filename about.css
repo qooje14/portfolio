@@ -116,8 +116,6 @@
         .footer-content {
             width: 100%;
             text-align: center;
-            left: 0px;
-            margin: 0;
-            bottom: 0px;
-               margin-top: 80px;
+            position: fixed;
+            bottom: 0;
         }
